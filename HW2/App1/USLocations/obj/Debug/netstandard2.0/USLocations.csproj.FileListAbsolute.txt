@@ -1,0 +1,10 @@
+C:\Users\Bryan\source\repos\App1\USLocations\bin\Debug\netstandard2.0\USLocations.deps.json
+C:\Users\Bryan\source\repos\App1\USLocations\bin\Debug\netstandard2.0\USLocations.dll
+C:\Users\Bryan\source\repos\App1\USLocations\bin\Debug\netstandard2.0\USLocations.pdb
+C:\Users\Bryan\source\repos\App1\USLocations\obj\Debug\netstandard2.0\USLocations.csprojAssemblyReference.cache
+C:\Users\Bryan\source\repos\App1\USLocations\obj\Debug\netstandard2.0\USLocations.csproj.CoreCompileInputs.cache
+C:\Users\Bryan\source\repos\App1\USLocations\obj\Debug\netstandard2.0\USLocations.AssemblyInfoInputs.cache
+C:\Users\Bryan\source\repos\App1\USLocations\obj\Debug\netstandard2.0\USLocations.AssemblyInfo.cs
+C:\Users\Bryan\source\repos\App1\USLocations\obj\Debug\netstandard2.0\USLocations.dll
+C:\Users\Bryan\source\repos\App1\USLocations\obj\Debug\netstandard2.0\USLocations.pdb
+C:\Users\Bryan\source\repos\App1\USLocations\bin\Debug\netstandard2.0\zipcodes.tsv

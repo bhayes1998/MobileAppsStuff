@@ -1,0 +1,16 @@
+C:\Users\Bryan\source\repos\App1\App1\App1\bin\Debug\netstandard2.0\App1.deps.json
+C:\Users\Bryan\source\repos\App1\App1\App1\bin\Debug\netstandard2.0\App1.dll
+C:\Users\Bryan\source\repos\App1\App1\App1\bin\Debug\netstandard2.0\App1.pdb
+C:\Users\Bryan\source\repos\App1\App1\App1\obj\Debug\netstandard2.0\App1.csprojAssemblyReference.cache
+C:\Users\Bryan\source\repos\App1\App1\App1\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Bryan\source\repos\App1\App1\App1\obj\Debug\netstandard2.0\App1.csproj.CoreCompileInputs.cache
+C:\Users\Bryan\source\repos\App1\App1\App1\obj\Debug\netstandard2.0\App1.AssemblyInfoInputs.cache
+C:\Users\Bryan\source\repos\App1\App1\App1\obj\Debug\netstandard2.0\App1.AssemblyInfo.cs
+C:\Users\Bryan\source\repos\App1\App1\App1\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Bryan\source\repos\App1\App1\App1\obj\Debug\netstandard2.0\App1.dll
+C:\Users\Bryan\source\repos\App1\App1\App1\obj\Debug\netstandard2.0\App1.pdb
+C:\Users\Bryan\source\repos\App1\App1\App1\bin\Debug\netstandard2.0\USLocations.dll
+C:\Users\Bryan\source\repos\App1\App1\App1\bin\Debug\netstandard2.0\USLocations.pdb
+C:\Users\Bryan\source\repos\App1\App1\App1\obj\Debug\netstandard2.0\App1.csproj.CopyComplete
+C:\Users\Bryan\source\repos\App1\App1\App1\bin\Debug\netstandard2.0\zipcodes.tsv
+C:\Users\Bryan\source\repos\App1\App1\App1\bin\Debug\netstandard2.0\map.png

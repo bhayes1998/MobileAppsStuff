@@ -1,0 +1,9 @@
+C:\Users\Bryan\source\repos\470HW1\470HW1\bin\Release\netstandard2.0\470HW1.deps.json
+C:\Users\Bryan\source\repos\470HW1\470HW1\bin\Release\netstandard2.0\470HW1.dll
+C:\Users\Bryan\source\repos\470HW1\470HW1\bin\Release\netstandard2.0\470HW1.pdb
+C:\Users\Bryan\source\repos\470HW1\470HW1\obj\Release\netstandard2.0\470HW1.csprojAssemblyReference.cache
+C:\Users\Bryan\source\repos\470HW1\470HW1\obj\Release\netstandard2.0\470HW1.csproj.CoreCompileInputs.cache
+C:\Users\Bryan\source\repos\470HW1\470HW1\obj\Release\netstandard2.0\470HW1.AssemblyInfoInputs.cache
+C:\Users\Bryan\source\repos\470HW1\470HW1\obj\Release\netstandard2.0\470HW1.AssemblyInfo.cs
+C:\Users\Bryan\source\repos\470HW1\470HW1\obj\Release\netstandard2.0\470HW1.dll
+C:\Users\Bryan\source\repos\470HW1\470HW1\obj\Release\netstandard2.0\470HW1.pdb

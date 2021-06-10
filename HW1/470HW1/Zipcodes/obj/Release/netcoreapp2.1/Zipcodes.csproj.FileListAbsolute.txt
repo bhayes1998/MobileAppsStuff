@@ -1,0 +1,14 @@
+C:\Users\Bryan\source\repos\470HW1\Zipcodes\bin\Release\netcoreapp2.1\Zipcodes.deps.json
+C:\Users\Bryan\source\repos\470HW1\Zipcodes\bin\Release\netcoreapp2.1\Zipcodes.runtimeconfig.json
+C:\Users\Bryan\source\repos\470HW1\Zipcodes\bin\Release\netcoreapp2.1\Zipcodes.runtimeconfig.dev.json
+C:\Users\Bryan\source\repos\470HW1\Zipcodes\bin\Release\netcoreapp2.1\Zipcodes.dll
+C:\Users\Bryan\source\repos\470HW1\Zipcodes\bin\Release\netcoreapp2.1\Zipcodes.pdb
+C:\Users\Bryan\source\repos\470HW1\Zipcodes\obj\Release\netcoreapp2.1\Zipcodes.csprojAssemblyReference.cache
+C:\Users\Bryan\source\repos\470HW1\Zipcodes\obj\Release\netcoreapp2.1\Zipcodes.csproj.CoreCompileInputs.cache
+C:\Users\Bryan\source\repos\470HW1\Zipcodes\obj\Release\netcoreapp2.1\Zipcodes.AssemblyInfoInputs.cache
+C:\Users\Bryan\source\repos\470HW1\Zipcodes\obj\Release\netcoreapp2.1\Zipcodes.AssemblyInfo.cs
+C:\Users\Bryan\source\repos\470HW1\Zipcodes\obj\Release\netcoreapp2.1\Zipcodes.dll
+C:\Users\Bryan\source\repos\470HW1\Zipcodes\obj\Release\netcoreapp2.1\Zipcodes.pdb
+C:\Users\Bryan\source\repos\470HW1\Zipcodes\bin\Release\netcoreapp2.1\470HW1.dll
+C:\Users\Bryan\source\repos\470HW1\Zipcodes\bin\Release\netcoreapp2.1\470HW1.pdb
+C:\Users\Bryan\source\repos\470HW1\Zipcodes\obj\Release\netcoreapp2.1\Zipcodes.csproj.CopyComplete

@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.1",
+    "signature": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.1": {
+      "Zipcodes/1.0.0": {
+        "dependencies": {
+          "470HW1": "1.0.0"
+        },
+        "runtime": {
+          "Zipcodes.dll": {}
+        }
+      },
+      "470HW1/1.0.0": {
+        "runtime": {
+          "470HW1.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Zipcodes/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "470HW1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             mc:Ignorable="d"
+             x:Class="RunningApp.AgeGradePage">
+    <ContentPage.Content>
+        <StackLayout>
+            <Label Text="Here you can calculate your age grade for a particular distance. This will compare the time you took to complete a run of a given distance to the world record time based on your age group and gender. Make sure you have the proper gender and birthdate set in the settings!"
+                    TextColor="White" BackgroundColor="DarkRed" FontSize="16" HorizontalTextAlignment="Center"/>
+            <StackLayout x:Name="top" Orientation="Vertical" >
+                <StackLayout Orientation="Horizontal">
+                    <Label Text="Select distance: " TextColor="White" FontSize="18" WidthRequest="80"/>
+                    <Picker x:Name="Distance" TextColor="Black" BackgroundColor="Yellow" WidthRequest="150" SelectedIndexChanged="OnEntryChanged">
+                        <Picker.Items>
+                            <x:String>1m</x:String>
+                            <x:String>5k</x:String>
+                            <x:String>10k</x:String>
+                            <x:String>half marathon</x:String>
+                            <x:String>marathon</x:String>
+                        </Picker.Items>
+                    </Picker>
+                </StackLayout>
+                <StackLayout Orientation="Horizontal">
+                    <Label Text="Time: " TextColor="White" FontSize="18" WidthRequest="80"/>
+                    <Entry x:Name="TimeHour" Placeholder="Hour" BackgroundColor="Yellow" TextColor="Black" PropertyChanged="OnEntryChanged"/>
+                    <Label Text=":" FontSize="18"/>
+                    <Entry x:Name="TimeMin" Placeholder="Min" BackgroundColor="Yellow" TextColor="Black" PropertyChanged="OnEntryChanged"/>
+                    <Label Text=":" FontSize="18"/>
+                    <Entry x:Name="TimeSec" Placeholder="Sec" BackgroundColor="Yellow" TextColor="Black" PropertyChanged="OnEntryChanged"/>
+                </StackLayout>
+                <Label x:Name="Output" Text="Estimated age grade: " FontSize="18" TextColor="White"/>
+                
+            </StackLayout>
+            <ListView x:Name="lv"/>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

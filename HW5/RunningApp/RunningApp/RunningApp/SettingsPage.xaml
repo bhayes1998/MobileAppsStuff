@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:sys="clr-namespace:System;assembly=mscorlib"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             mc:Ignorable="d"
+             x:Class="RunningApp.SettingsPage">
+    <ContentPage.Content>
+        <StackLayout>
+            <Label Text="On this page you can change set your gender, birthday, and whether you want distance to be in miles (switch on) or kilometers (switch off)."
+                    TextColor="White" BackgroundColor="DarkRed" FontSize="16" HorizontalTextAlignment="Center"/>
+            <StackLayout x:Name="top" Orientation="Vertical">
+                <StackLayout Orientation="Horizontal">
+                    <Label Text="Gender: " TextColor="White" WidthRequest="85" FontSize="18"/>
+                    <Picker x:Name="GenderPick" WidthRequest="90" SelectedIndexChanged="OnPickerChange" TextColor="White" BackgroundColor="DarkGreen">
+                        <Picker.Items>
+                            <x:String>Male</x:String>
+                            <x:String>Female</x:String>
+                        </Picker.Items>
+                    </Picker>
+                </StackLayout>
+                <StackLayout Orientation="Horizontal">
+                    <Label Text="Miles: " TextColor="White" WidthRequest="85" FontSize="18"/>
+                    <Switch x:Name="MilesSwitch" Toggled="OnMilesSwitchChange" WidthRequest="60" OnColor="Red"/>
+                </StackLayout>
+                <StackLayout Orientation="Horizontal">
+                    <Label Text="Date of birth: " TextColor="White" WidthRequest="85" FontSize="18"/>
+                    <DatePicker x:Name="Birthday" Date="10/18/1998" DateSelected="OnDatePickerChange" MaximumDate="{x:Static sys:DateTime.Now}" TextColor="White" BackgroundColor="DarkGreen"/>
+                </StackLayout>
+            </StackLayout>
+            <StackLayout x:Name="bottom" Orientation="Vertical">
+                <Image x:Name="image" Source="womanrunning.jpg" WidthRequest="200" HeightRequest="200"/>
+                <Label HorizontalOptions="Center" VerticalOptions="CenterAndExpand">
+                    <Label.FormattedText>
+                        <FormattedString>
+                            <Span Text="Credits" TextColor="Blue" TextDecorations="Underline">
+                                <Span.GestureRecognizers>
+                                    <TapGestureRecognizer Command="{Binding OpenLink}" CommandParameter="https://www.miamioh.edu" />
+                                </Span.GestureRecognizers>
+                            </Span>
+                        </FormattedString>
+                    </Label.FormattedText>
+                </Label>
+                
+            </StackLayout>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

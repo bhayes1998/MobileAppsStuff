@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:sys="clr-namespace:System;assembly=mscorlib"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             mc:Ignorable="d"
+             x:Class="RunningApp.EventPage">
+    <ContentPage.Content>
+        <ScrollView>
+            <StackLayout>
+                <StackLayout x:Name="main">
+                    <Label Text="Welcome! Here you can add, update, or delete your running log.  If you want to add, just fill in the date, distance, and length of time for your run and hit add. If you want to update a previous entry, select that entry and put the correct info above, then press update. If you want to delete a previous entry, select that entry and press delete. " 
+                       TextColor="White" BackgroundColor="DarkRed" FontSize="16" HorizontalTextAlignment="Center"/>
+                </StackLayout>
+                <Image Source="stickfigurepink.png" HeightRequest="150" WidthRequest="150"/>
+                <StackLayout x:Name="input">
+                    <StackLayout Orientation="Horizontal">
+                        <Label x:Name="dateLabel" Text="Date: " TextColor="White" WidthRequest="85" FontSize="18"/>
+                        <DatePicker x:Name="Pick" MaximumDate="{x:Static sys:DateTime.Now}" TextColor="White" BackgroundColor="DarkSlateBlue" FontAttributes="Italic"/>
+                    </StackLayout>
+                    <StackLayout Orientation="Horizontal">
+                        <Label Text="Distance: " TextColor="White" WidthRequest="85" FontSize="18"/>
+                        <Entry x:Name="Dist" WidthRequest="60" BackgroundColor="DarkSlateBlue" TextColor="White"/>
+                    </StackLayout>
+                    <StackLayout Orientation="Horizontal">
+                        <Label Text="Time: " TextColor="White" WidthRequest="85" FontSize="18"/>
+                        <Entry x:Name="TimeHour" WidthRequest="60" BackgroundColor="DarkSlateBlue" TextColor="White" Placeholder="Hours" PlaceholderColor="Black"/>
+                        <Label Text=":" TextColor="White" FontSize="18"/>
+                        <Entry x:Name="TimeMin" WidthRequest="60" BackgroundColor="DarkSlateBlue" TextColor="White" Placeholder="Mins" PlaceholderColor="Black"/>
+                    </StackLayout>
+                    <Button x:Name="Add" Text="Add" Clicked="OnAddButtonClicked"/>
+                    <Button x:Name="Update" Text="Update" Clicked="OnUpdateButtonClicked"/>
+                    <Button x:Name="Delete" Text="Delete" Clicked="OnDeleteButtonClicked"/>
+                </StackLayout>
+                <ListView x:Name="lv" HeightRequest="250" RowHeight="55"/>
+            </StackLayout>
+        </ScrollView>
+    </ContentPage.Content>
+</ContentPage>

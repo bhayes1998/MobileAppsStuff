@@ -1,0 +1,24 @@
+C:\Users\Bryan\source\repos\Calculator\Calculator\Calculator\bin\Debug\netstandard2.0\Calculator.deps.json
+C:\Users\Bryan\source\repos\Calculator\Calculator\Calculator\bin\Debug\netstandard2.0\Calculator.dll
+C:\Users\Bryan\source\repos\Calculator\Calculator\Calculator\bin\Debug\netstandard2.0\Calculator.pdb
+C:\Users\Bryan\source\repos\Calculator\Calculator\Calculator\obj\Debug\netstandard2.0\Calculator.csprojAssemblyReference.cache
+C:\Users\Bryan\source\repos\Calculator\Calculator\Calculator\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Bryan\source\repos\Calculator\Calculator\Calculator\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Bryan\source\repos\Calculator\Calculator\Calculator\obj\Debug\netstandard2.0\Calculator.csproj.CoreCompileInputs.cache
+C:\Users\Bryan\source\repos\Calculator\Calculator\Calculator\obj\Debug\netstandard2.0\Calculator.AssemblyInfoInputs.cache
+C:\Users\Bryan\source\repos\Calculator\Calculator\Calculator\obj\Debug\netstandard2.0\Calculator.AssemblyInfo.cs
+C:\Users\Bryan\source\repos\Calculator\Calculator\Calculator\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Bryan\source\repos\Calculator\Calculator\Calculator\obj\Debug\netstandard2.0\Calculator.dll
+C:\Users\Bryan\source\repos\Calculator\Calculator\Calculator\obj\Debug\netstandard2.0\Calculator.pdb
+C:\Users\Bryan\Desktop\Calculator (MVVM)\Calculator\Calculator\bin\Debug\netstandard2.0\Calculator.deps.json
+C:\Users\Bryan\Desktop\Calculator (MVVM)\Calculator\Calculator\bin\Debug\netstandard2.0\Calculator.dll
+C:\Users\Bryan\Desktop\Calculator (MVVM)\Calculator\Calculator\bin\Debug\netstandard2.0\Calculator.pdb
+C:\Users\Bryan\Desktop\Calculator (MVVM)\Calculator\Calculator\obj\Debug\netstandard2.0\Calculator.csprojAssemblyReference.cache
+C:\Users\Bryan\Desktop\Calculator (MVVM)\Calculator\Calculator\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Bryan\Desktop\Calculator (MVVM)\Calculator\Calculator\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Bryan\Desktop\Calculator (MVVM)\Calculator\Calculator\obj\Debug\netstandard2.0\Calculator.csproj.CoreCompileInputs.cache
+C:\Users\Bryan\Desktop\Calculator (MVVM)\Calculator\Calculator\obj\Debug\netstandard2.0\Calculator.AssemblyInfoInputs.cache
+C:\Users\Bryan\Desktop\Calculator (MVVM)\Calculator\Calculator\obj\Debug\netstandard2.0\Calculator.AssemblyInfo.cs
+C:\Users\Bryan\Desktop\Calculator (MVVM)\Calculator\Calculator\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Bryan\Desktop\Calculator (MVVM)\Calculator\Calculator\obj\Debug\netstandard2.0\Calculator.dll
+C:\Users\Bryan\Desktop\Calculator (MVVM)\Calculator\Calculator\obj\Debug\netstandard2.0\Calculator.pdb

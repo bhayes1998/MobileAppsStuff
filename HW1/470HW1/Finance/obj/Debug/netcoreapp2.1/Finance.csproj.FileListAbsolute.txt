@@ -1,0 +1,15 @@
+C:\Users\Bryan\Desktop\470HW1\Finance\bin\Debug\netcoreapp2.1\Finance.deps.json
+C:\Users\Bryan\Desktop\470HW1\Finance\bin\Debug\netcoreapp2.1\Finance.runtimeconfig.json
+C:\Users\Bryan\Desktop\470HW1\Finance\bin\Debug\netcoreapp2.1\Finance.runtimeconfig.dev.json
+C:\Users\Bryan\Desktop\470HW1\Finance\bin\Debug\netcoreapp2.1\Finance.dll
+C:\Users\Bryan\Desktop\470HW1\Finance\bin\Debug\netcoreapp2.1\Finance.pdb
+C:\Users\Bryan\Desktop\470HW1\Finance\bin\Debug\netcoreapp2.1\470HW1.dll
+C:\Users\Bryan\Desktop\470HW1\Finance\bin\Debug\netcoreapp2.1\470HW1.pdb
+C:\Users\Bryan\Desktop\470HW1\Finance\obj\Debug\netcoreapp2.1\Finance.csprojAssemblyReference.cache
+C:\Users\Bryan\Desktop\470HW1\Finance\obj\Debug\netcoreapp2.1\Finance.csproj.CoreCompileInputs.cache
+C:\Users\Bryan\Desktop\470HW1\Finance\obj\Debug\netcoreapp2.1\Finance.AssemblyInfoInputs.cache
+C:\Users\Bryan\Desktop\470HW1\Finance\obj\Debug\netcoreapp2.1\Finance.AssemblyInfo.cs
+C:\Users\Bryan\Desktop\470HW1\Finance\obj\Debug\netcoreapp2.1\Finance.csproj.CopyComplete
+C:\Users\Bryan\Desktop\470HW1\Finance\obj\Debug\netcoreapp2.1\Finance.dll
+C:\Users\Bryan\Desktop\470HW1\Finance\obj\Debug\netcoreapp2.1\Finance.pdb
+C:\Users\Bryan\Desktop\470HW1\Finance\bin\Debug\netcoreapp2.1\zipcodes.tsv

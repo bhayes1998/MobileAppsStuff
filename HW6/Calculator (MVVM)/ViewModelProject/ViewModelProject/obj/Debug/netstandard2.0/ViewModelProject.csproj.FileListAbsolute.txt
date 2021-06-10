@@ -1,0 +1,10 @@
+C:\Users\Bryan\Desktop\Calculator (MVVM)\ViewModelProject\ViewModelProject\bin\Debug\netstandard2.0\ViewModelProject.deps.json
+C:\Users\Bryan\Desktop\Calculator (MVVM)\ViewModelProject\ViewModelProject\bin\Debug\netstandard2.0\ViewModelProject.dll
+C:\Users\Bryan\Desktop\Calculator (MVVM)\ViewModelProject\ViewModelProject\bin\Debug\netstandard2.0\ViewModelProject.pdb
+C:\Users\Bryan\Desktop\Calculator (MVVM)\ViewModelProject\ViewModelProject\obj\Debug\netstandard2.0\ViewModelProject.csproj.CoreCompileInputs.cache
+C:\Users\Bryan\Desktop\Calculator (MVVM)\ViewModelProject\ViewModelProject\obj\Debug\netstandard2.0\ViewModelProject.AssemblyInfoInputs.cache
+C:\Users\Bryan\Desktop\Calculator (MVVM)\ViewModelProject\ViewModelProject\obj\Debug\netstandard2.0\ViewModelProject.AssemblyInfo.cs
+C:\Users\Bryan\Desktop\Calculator (MVVM)\ViewModelProject\ViewModelProject\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Bryan\Desktop\Calculator (MVVM)\ViewModelProject\ViewModelProject\obj\Debug\netstandard2.0\ViewModelProject.dll
+C:\Users\Bryan\Desktop\Calculator (MVVM)\ViewModelProject\ViewModelProject\obj\Debug\netstandard2.0\ViewModelProject.pdb
+C:\Users\Bryan\Desktop\Calculator (MVVM)\ViewModelProject\ViewModelProject\obj\Debug\netstandard2.0\ViewModelProject.csprojAssemblyReference.cache
